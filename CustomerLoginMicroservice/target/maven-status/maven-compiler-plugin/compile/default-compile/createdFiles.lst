@@ -1,0 +1,6 @@
+com\example\demo\service\CustomerService.class
+com\example\demo\controller\CustomerController.class
+com\example\demo\entity\Customer.class
+com\example\demo\repository\CustomerRepository.class
+com\example\demo\entity\LoginModel.class
+com\example\demo\CustomerLoginMicroserviceApplication.class
